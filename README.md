@@ -1,7 +1,7 @@
 <img align="center" height="380" width="1800" src="https://raw.githubusercontent.com/Uditanshu0110/Uditanshu0110/main/Untitled design.jpg"/></a>
 
 
-<h1 align="center">Hi 👋, I'm Uditanshu Pandey</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Uditanshu Pandey</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uditanshu0110&label=Profile%20views&color=0e75b6&style=flat" alt="uditanshu0110" /> </p>
