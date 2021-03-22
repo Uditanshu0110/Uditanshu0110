@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Uditanshu0110/Uditanshu0110/main/Untitled design.jpg"/></a>
+<img align="center" height="380" width="1800" src="https://raw.githubusercontent.com/Uditanshu0110/Uditanshu0110/main/Untitled design.jpg"/></a>
 
 
 <h1 align="center">Hi 👋, I'm Uditanshu Pandey</h1>
