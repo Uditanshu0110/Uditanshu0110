@@ -7,7 +7,7 @@
 
 ## About Me ✍️ 
 
-**A passionate Cloud Enthusiast from India. Pursuing B-tech in Computer science engineering, who like to learn and work upon the latest high-end technologies, and build solutions beneficial for mankind, using a perfect blend of technology and innovation.**
+**A passionate ☁️Cloud Enthusiast☁️ from India. Pursuing B-tech in Computer science engineering, who like to learn and work upon the latest high-end technologies, and build solutions beneficial for mankind, using a perfect blend of technology and innovation.**
 
 - 📝 I regularly write articles on [https://uditanshupandey00.medium.com](https://uditanshupandey00.medium.com)
 
