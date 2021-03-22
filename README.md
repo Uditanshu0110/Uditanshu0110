@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![MasterHead](https://drive.google.com/file/d/1SRububtrn3ahfhFFLcnmcz7C23z7jV3G/view?usp=sharing)](https://drive.google.com/file/d/1SRububtrn3ahfhFFLcnmcz7C23z7jV3G/view?usp=sharing)
+[![MasterHead](https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif)](https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif)
 
 <!--
 **Uditanshu0110/Uditanshu0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
