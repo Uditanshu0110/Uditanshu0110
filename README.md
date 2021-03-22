@@ -4,9 +4,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Uditanshu Pandey</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uditanshu0110&label=Profile%20views&color=0e75b6&style=flat" alt="uditanshu0110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditanshu0110" alt="uditanshu0110" /></a> </p>
 
 ## About Me ✍️ 
 
@@ -20,11 +18,16 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1q7vsad0j-VlS653PBN_WQWzMn3DQpr4z/view?usp=sharing](https://drive.google.com/file/d/1q7vsad0j-VlS653PBN_WQWzMn3DQpr4z/view?usp=sharing)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uditanshu0110&label=Profile%20views&color=0e75b6&style=flat" alt="uditanshu0110" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uditanshu0110" alt="uditanshu0110" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/uditanshup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/uditanshup" height="30" width="40" /></a>
 <a href="https://medium.com/@uditanshupandey00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uditanshupandey00" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
