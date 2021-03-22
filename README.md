@@ -26,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/uditanshup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/uditanshup" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12647610/uditanshu-pandey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12647610/uditanshu-pandey" height="30" width="40" /></a>
 <a href="https://medium.com/@uditanshupandey00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@uditanshupandey00" height="30" width="40" /></a>
  
 </p>
